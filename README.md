@@ -3,6 +3,7 @@
 ♦️ LAIN2 VPS FEEDBACK SEBAB SAYA SELALU GUNA DIGITAL OCEAN LANCAR <br>
 
 ♦️ For Debian 10 Only <br>
+♦️ WALAUPUN ENGGA ADA FILE INI SCRIPT BISA JALAN DAN LANCAR <br>
  
   ```html
  apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
@@ -22,7 +23,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
   ♦️ Serial Key <br>
   
   ```html
- CRUSH-ERROR-SAKURAV3
+ TANYA KE ADMIN KAISARVPN NO WA NYA [ 081936852639]
  ```
 
 ♦️ REVIEW AUTOSCRIPT SAMPLE BELOW <br>
