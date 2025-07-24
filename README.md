@@ -38,3 +38,4 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <br>
  <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Crush-Error/main/3running.png" width="400" title="3"><br>
 <br>
+pw CRUSH-ERROR-SAKURAV3
